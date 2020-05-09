@@ -1,0 +1,14 @@
+.container{
+  width: 1100px;
+  height: 150px;
+  background-color: dimgrey;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+.footerText{
+  color: black;
+  font-style: italic;
+  font-size: 40px;
+}
